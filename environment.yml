@@ -1,0 +1,12 @@
+name: b3s
+channels:
+  - conda-forge
+dependencies:
+  - python=3.6
+  - jupyter
+  - numpy=1.14.3
+  - scipy=1.1.0
+  - matplotlib=2.2.2
+  - pandas=0.23.0
+  - scikit-learn=0.19.1
+  - poliastro=0.11.0
